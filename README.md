@@ -2,7 +2,7 @@
 
 #### A Full-Stack Developer by day ☼ and a Metal Head / TTRPG Player by night ☾
 
-Developer at [Ideon](https://www.linkedin.com/company/ideonsoft/);<br>
+Developer at [Lojimod](https://www.linkedin.com/company/lojimod/);<br>
 
 
 - ⚙️ I use daily: `.py`, `.js`, `.css`, `.svg`, `.psd`,  `.jsx`,`.ts`,`.tsx`
